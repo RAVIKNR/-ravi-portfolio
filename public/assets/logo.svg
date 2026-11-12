@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 64" role="img" aria-labelledby="logo-title logo-description">
+  <title id="logo-title">Abstract geometric portfolio mark</title>
+  <desc id="logo-description">An original angular mark formed by three balanced geometric facets.</desc>
+  <path fill="#C1B3A1" d="M8 32 28 8l12 16-12 16L8 32Zm20 0L48 8l12 16-12 16-20-8Z"/>
+  <path fill="#E95134" d="m48 40 12-16 28 8-28 24-12-16Z"/>
+  <path fill="#C1B3A1" d="M28 40 48 32l12 16-12 8-20-16Z"/>
+</svg>

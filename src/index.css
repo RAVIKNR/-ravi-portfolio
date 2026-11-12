@@ -1,0 +1,30 @@
+:root {
+  font-family: Manrope, ui-sans-serif, system-ui, sans-serif;
+  color: #c1b3a1;
+  caret-color: transparent;
+  overflow-x: clip;
+  background: #0b0b0b;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#root {
+  min-height: 100svh;
+}
+
+body {
+  margin: 0;
+  overflow-x: clip;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input,
+textarea,
+[contenteditable]:not([contenteditable='false']) {
+  caret-color: auto;
+}
